@@ -1,6 +1,6 @@
 
   function GetMap() {
-    $.get('turkey-map/source/turkey.svg', function(data) {
+    $.get('turkey-map/source/turkey-demo.svg', function(data) {
       $('#turkey-map').append('<div class="map-container">' + data + '</div>');
       $('.map-container').append('<div class="map-title"><span class="map-close"></span><strong></strong></div>');
 
