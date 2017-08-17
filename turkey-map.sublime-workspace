@@ -1,0 +1,1412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"trMa",
+				"trMapL"
+			],
+			[
+				"offse",
+				"offset\t.offset()"
+			],
+			[
+				"tuk",
+				"turkey-map"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"o",
+				"on\t.on()"
+			],
+			[
+				"map",
+				"map-tooltip"
+			],
+			[
+				"tranfor",
+				"transform"
+			],
+			[
+				"tue",
+				"turkey-map"
+			],
+			[
+				"eac",
+				"each\t$.each()"
+			],
+			[
+				"turkey",
+				"turkey-map"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"turk",
+				"turkey-map"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"offset",
+				"offsetParent\t.offsetParent()"
+			],
+			[
+				"mouse",
+				"mouseover\t.mouseover()"
+			],
+			[
+				"tur",
+				"turkey-map"
+			],
+			[
+				"scal",
+				"scale3D()"
+			],
+			[
+				"transt",
+				"transition"
+			],
+			[
+				"app",
+				"appendTo\t.appendTo()"
+			],
+			[
+				"get",
+				"get\t$.get()"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"custom",
+				"custom-select\t style.less"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"grey",
+				"grey-form\t style.less"
+			],
+			[
+				"bott",
+				"bottom-line-left\t style.less"
+			],
+			[
+				"li",
+				"list-adverts\t style.less"
+			],
+			[
+				"tabl",
+				"table-list\t style.less"
+			],
+			[
+				"tab",
+				"table-bordered\t style.less"
+			],
+			[
+				"text-l",
+				"text-align"
+			],
+			[
+				"table",
+				"table-bordered\t style.less"
+			],
+			[
+				"ta",
+				"table-list\t style.less"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text",
+				"text-center\t style.less"
+			],
+			[
+				"mini",
+				"mini-font\t variables.less"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"acco",
+				"account-mobile"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"image",
+				"image-container\t style.less"
+			],
+			[
+				"bl",
+				"blue\t variables.less"
+			],
+			[
+				"re",
+				"red\t variables.less"
+			],
+			[
+				"min",
+				"mini-font\t style.less"
+			],
+			[
+				"listy",
+				"list-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"advert-detail",
+				"advert-detail-bg"
+			],
+			[
+				"outer",
+				"outer-controls\t style.less"
+			],
+			[
+				"ou",
+				"outer-controls\t style.less"
+			],
+			[
+				"white",
+				"white-area\t style.less"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"advet",
+				"advert"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"tit",
+				"title-font\t style.less"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"backgo",
+				"background-size"
+			],
+			[
+				"bottom-li",
+				"bottom-line-left\t style.less"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bi-",
+				"big-picture-area\t style.less"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"file",
+				"fileinclude"
+			],
+			[
+				"sc",
+				"scroll\t.scroll()"
+			],
+			[
+				"fix",
+				"fixed-header"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"rmeo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"off",
+				"offset\t.offset()"
+			],
+			[
+				"rga",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"rba",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"gre",
+				"green\t variables.less"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"iln",
+				"inline-block"
+			],
+			[
+				"il",
+				"inline-flex"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ea",
+				"each\t$.each()"
+			],
+			[
+				"pre",
+				"prepend\t.prepend()"
+			],
+			[
+				"fl",
+				"inline-flex"
+			],
+			[
+				"f",
+				"format string %()"
+			],
+			[
+				"te",
+				"pointer-events"
+			],
+			[
+				"i",
+				"iscolor(colorOrAnything)"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"rgba",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"ligh",
+				"lighten\tlighten()"
+			],
+			[
+				"font-fam",
+				"font-family-base"
+			],
+			[
+				"$tim",
+				"verbose_$timeout\tAngularJS"
+			],
+			[
+				"Deği",
+				"değiştirilebilen"
+			],
+			[
+				"share_",
+				"share_text"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"lan",
+				"langKey"
+			],
+			[
+				"fire",
+				"firebaseSettings"
+			],
+			[
+				"rea",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"contaienr",
+				"container-bg"
+			],
+			[
+				"ani",
+				"ani\tanimation"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"ng",
+				"ng-bind\tAngularJS"
+			],
+			[
+				"font-",
+				"font-family-medium"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"opa",
+				"opacity-black"
+			],
+			[
+				"scrol",
+				"scroll-content"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"$htt",
+				"verbose_$http\tAngularJS"
+			],
+			[
+				"$root",
+				"$rootScope\tAngularJS"
+			],
+			[
+				"Get",
+				"GetImages"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"$roo",
+				"$rootScope\tAngularJS"
+			],
+			[
+				"Ge",
+				"GetUnIdError"
+			],
+			[
+				"fac",
+				"$cacheFactory\tAngularJS"
+			],
+			[
+				"$timeou",
+				"verbose_$timeout\tAngularJS"
+			],
+			[
+				"defe",
+				"deferred"
+			],
+			[
+				"$timo",
+				"verbose_$timeout\tAngularJS"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"$ht",
+				"verbose_$http\tAngularJS"
+			],
+			[
+				"the",
+				"then\t.then()"
+			],
+			[
+				"temp",
+				"tempCities"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "turkey-map/js/main.js",
+			"settings":
+			{
+				"buffer_size": 3102,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4926,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/boradan/Google Drive/My Works/Map Projects/turkey-map.js",
+			"settings":
+			{
+				"buffer_size": 68539,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "turkey-map/style/style.less",
+			"settings":
+			{
+				"buffer_size": 3262,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 384.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/turkey-map",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/turkey-map/js",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/turkey-map/source",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/turkey-map/style"
+	],
+	"file_history":
+	[
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/demo.html",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/demo.css",
+		"/Users/boradan/Google Drive/My Works/Map Projects/turkey-map.js",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/turkey-map/source/turkey-demo.svg",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/demo.less",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/assets/style/style.less",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/assets/source/turkey.svg",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/assets/js/main.js",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/assets/style/style.css",
+		"/Users/boradan/Google Drive/My Works/Map Projects/Turkiye Il ve Ilce Haritasi/assets/less/style.less",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/my-users-add.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/sell-select-category.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/assets/style/style.less",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/sell-advert-detail.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/header.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-copy-advert.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-email.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-fav-adverts.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-home.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-invoice-address.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-message-detail.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-messages.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-mobile.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-my-adverts.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-password.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-plans-process.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-plans.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-transfer-advert.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-unpublish-advert.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-user-infos.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/account-users.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/fav-adverts.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/advert-detail.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/category-page.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/credit-ratios.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/help.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/index.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/membership-all-infos-success.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/membership-change-password.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/membership-forgot-password.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/membership-mobile-verify.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/membership-sign-in.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/membership-sign-up-success.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/membership-sign-up.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/search-results.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/assets/style/variables.less",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/account-left-menu.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/my-adverts.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/advert-message-detail.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/account-home.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/my-messages.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/my-users.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/advert-detail.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/left-menu.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/assets/plugins/noUiSlider.9.0.0/nouislider.css",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/search-results.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/assets/plugins/noUiSlider.9.0.0/nouislider.tooltips.css",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/assets/plugins/noUiSlider.9.0.0/nouislider.pips.css",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/head.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/assets/js/main.js",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/assets/iconfont/flaticon.css",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/build_www/assets/style/style.css",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/project.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/footer.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/credit_ratios.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/include/advert.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/www/category_page.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/gulpfile.js",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/package.json",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/include/head.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/include/footer.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/include/header.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/include/mobile-app.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/assets/js/main.js",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/search-results.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/index.html",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/assets/style/variables.less",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/assets/style/style.less",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/assets/style/functions.less",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/hepsisifir.sublime-project",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/assets/style/style.css",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/.gitignore",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/hepsisifir.sublime-workspace",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/js/main.js",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/js/functions.js",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/style/variables.less",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/style/style.less",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/User/less2css.sublime-settings",
+		"/Users/boradan/Git Projects/HepsiSifir.HTML/style/style.css",
+		"/Users/boradan/Git Projects/degry-v3/platforms/ios/Degry.xcodeproj/project.xcworkspace/xcuserdata/boradan.xcuserdatad/UserInterfaceState.xcuserstate",
+		"/Users/boradan/Desktop/asd.svg",
+		"/Users/boradan/Git Projects/degry-v3/www/lib/ionic/scss/_variables.scss",
+		"/Users/boradan/Git Projects/degry-v3/scss/weather-colors.scss",
+		"/Users/boradan/Git Projects/degry-v3/scss/main.scss",
+		"/Users/boradan/Git Projects/degry-v3/scss/ionic.app.scss",
+		"/Users/boradan/Git Projects/degry-v3/plugins/ios.json",
+		"/Users/boradan/Git Projects/degry-v3/node_modules/lodash/function.js",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/boradan/Git Projects/degry-v3/package.json",
+		"/Users/boradan/Git Projects/degry-v3/config.xml",
+		"/Users/boradan/Git Projects/degry-v3/bower.json",
+		"/Users/boradan/Git Projects/degry-v3/www/lib/ng-persist/dist/ng-persist.js",
+		"/Users/boradan/Git Projects/degry-v3/contributors.txt",
+		"/Users/boradan/Git Projects/degry-v3/www/index.html",
+		"/Users/boradan/Git Projects/degry-v3/bower2.json",
+		"/Users/boradan/Git Projects/degry-v3/www/js/functions.js",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/boradan/Git Projects/degry/platforms/ios/build/emulator/Degry.app/www/js/weather.js",
+		"/Users/boradan/Git Projects/degry/plugins/cordova-plugin-splashscreen/README.md",
+		"/Users/boradan/Git Projects/degry/www/js/weather.js",
+		"/Users/boradan/Git Projects/degry/www/js/custom-jquery.js",
+		"/Users/boradan/Git Projects/degry/www/css/style.css",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/User/LESS.sublime-settings",
+		"/Users/boradan/Git Projects/degry/www/css/style.css.map",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/Users/boradan/Desktop/Örnek Tunnelblick VPN Ayarları/config.ovpn",
+		"/Users/boradan/Google Drive/My Works/Map Projects/turkey-map/assets/js/custom-jquery.js",
+		"/Users/boradan/Google Drive/My Works/Map Projects/turkey-map/assets/style/style.less",
+		"/Users/boradan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+			"<current file>",
+			"*",
+			"",
+			"*.scss",
+			"*.scss, *.css",
+			"*.scss",
+			"*.js",
+			"*",
+			"*.js",
+			"*",
+			"*.html",
+			"*/html",
+			"*",
+			"*.js",
+			"*.scss",
+			"*",
+			"*.scss",
+			"*",
+			"*.js",
+			"*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"svg",
+			"aja",
+			">",
+			"<",
+			"255",
+			";\n        var ",
+			"<br>",
+			">",
+			"<",
+			"pre",
+			"255",
+			"pre",
+			"li",
+			"assets",
+			"town",
+			"255",
+			"#turkey-map",
+			"transform-left",
+			"svg ",
+			"mapType",
+			"[0]",
+			"that",
+			"this",
+			"mapType",
+			"$(this).parent('g')[0]",
+			"\n        <g",
+			"        <g",
+			"        ",
+			"\">\n            <path ",
+			"\">\n            <polygon ",
+			"<polygon ",
+			"<polygon =",
+			"<polygon ",
+			"carouse",
+			"</h1>\n      <ul class=\"table-list\">",
+			"\\",
+			"input",
+			".icon {",
+			"icon {",
+			"<button class=\"btn green\">",
+			"<div class=\"add-image\">",
+			"\\",
+			"Türkiye",
+			"custom-select",
+			"\"form-group ",
+			"green",
+			"2",
+			"a {",
+			" >",
+			">",
+			"xs-mt-20 xs-mb-20",
+			".transp",
+			"transp",
+			"p[cl",
+			"p[",
+			"modal",
+			".icon",
+			"btn ",
+			"grey {",
+			"grey ",
+			"grey",
+			"grey-",
+			"box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1)",
+			"box-shadow: 0 0",
+			"box-shadow:",
+			"h1 {",
+			"sub",
+			"title",
+			"255",
+			"block",
+			"checkbox-inline",
+			"radio-inline",
+			"inline",
+			" w100\">",
+			"checbox",
+			"account",
+			"h5",
+			"span",
+			".btn {",
+			"<a href=\"",
+			"<a href=",
+			"?",
+			"Emla",
+			"btn",
+			"container-f",
+			"255",
+			".form-control",
+			"toolt",
+			"include/my-adverts",
+			"include/advert",
+			"advert",
+			".advert ",
+			"advert ",
+			"<a href=\"#\">",
+			"<h1 class=\"green",
+			"\\",
+			"@arg",
+			".noUi-value-horizonta",
+			"noUi-handle",
+			"target",
+			"elem",
+			"<i class=\"icon flaticon-sort-down\"></i>",
+			"<th>",
+			"<td><a href=\"#\" class=\"btn green\">Başvur</a></td>",
+			"Garanti",
+			"advert-de",
+			"\\",
+			"content: \"",
+			"/Flaticon",
+			"flaticon-up-arrow",
+			"content: \"",
+			"class=\"level-plan\">",
+			"btn",
+			"<div class=\"level-plan\">",
+			"content: \"",
+			"container",
+			"outer-dots",
+			"hover-scale\"",
+			"href=\"#\"",
+			"is-ortak",
+			"carousel-control",
+			"tab ",
+			"tab",
+			"image-con",
+			".line",
+			"255",
+			"category_page",
+			"carousel slide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<polygon ",
+			"<polygon =",
+			"<polygon ",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "turkey-map/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1312,
+								1312
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1281.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/boradan/Google Drive/My Works/Map Projects/turkey-map.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 68539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32933,
+								32937
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17137.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "turkey-map/style/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "turkey-map.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"advert-de",
+				"www/advert-detail.html"
+			],
+			[
+				"main",
+				"build_www/assets/js/main.js"
+			],
+			[
+				"style",
+				"build_www/assets/style/style.less"
+			],
+			[
+				"fav",
+				"www/include/fav-adverts.html"
+			],
+			[
+				"varia",
+				"build_www/assets/style/variables.less"
+			],
+			[
+				"style.l",
+				"build_www/assets/style/style.less"
+			],
+			[
+				"account-hom",
+				"www/account-home.html"
+			],
+			[
+				"advert-",
+				"www/advert-detail.html"
+			],
+			[
+				"vari",
+				"build_www/assets/style/variables.less"
+			],
+			[
+				"styl",
+				"build_www/assets/style/style.less"
+			],
+			[
+				"home",
+				"www/account-home.html"
+			],
+			[
+				"left",
+				"www/include/account-left-menu.html"
+			],
+			[
+				"varila",
+				"build_www/assets/style/variables.less"
+			],
+			[
+				"advert",
+				"build_www/advert-detail.html"
+			],
+			[
+				"search",
+				"build_www/search-results.html"
+			],
+			[
+				"main.j",
+				"build_www/assets/js/main.js"
+			],
+			[
+				"head",
+				"www/include/head.html"
+			],
+			[
+				"sty",
+				"www/css/style.css"
+			],
+			[
+				"inde",
+				"www/index.html"
+			],
+			[
+				"city",
+				"www/templates/city_list.html"
+			],
+			[
+				"menu",
+				"www/templates/menu.html"
+			],
+			[
+				"tr.j",
+				"www/js/lang/tr.js"
+			],
+			[
+				"add_",
+				"www/templates/add_city.html"
+			],
+			[
+				"app",
+				"www/js/app.js"
+			],
+			[
+				"functi",
+				"www/js/functions.js"
+			],
+			[
+				"detail",
+				"www/templates/include/detail-box.html"
+			],
+			[
+				"anima",
+				"scss/animations.scss"
+			],
+			[
+				"settinh",
+				"www/templates/settings.html"
+			],
+			[
+				"share",
+				"www/templates/share.html"
+			],
+			[
+				"en.js",
+				"www/js/lang/en.js"
+			],
+			[
+				"tr.js",
+				"www/js/lang/tr.js"
+			],
+			[
+				"contr",
+				"www/js/controllers.js"
+			],
+			[
+				"controll",
+				"www/js/controllers.js"
+			],
+			[
+				"control",
+				"www/js/controllers.js"
+			],
+			[
+				"about",
+				"www/templates/about.html"
+			],
+			[
+				"men",
+				"www/templates/menu.html"
+			],
+			[
+				"city_",
+				"www/templates/city_list.html"
+			],
+			[
+				"functio",
+				"www/js/functions.js"
+			],
+			[
+				"function",
+				"www/js/functions.js"
+			],
+			[
+				"setti",
+				"www/templates/settings.html"
+			],
+			[
+				"city_lis",
+				"www/templates/city_list.html"
+			],
+			[
+				"fun",
+				"www/js/functions.js"
+			],
+			[
+				"func",
+				"node_modules/lodash/function.js"
+			],
+			[
+				"index",
+				"www/index.html"
+			],
+			[
+				"config",
+				"config.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

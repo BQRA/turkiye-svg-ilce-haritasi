@@ -1,0 +1,146 @@
+#turkey-map {
+  text-align: center;
+  font: normal 16px 'Helvetica Neue', 'Arial';
+  overflow: hidden;
+  background-color: #DEFFFD;
+  position: relative;
+}
+#turkey-map[data-map='districts'] #turkey > g > g path:hover,
+#turkey-map[data-map='districts'] #turkey > g > g polygon:hover,
+#turkey-map[data-map='districts'] #turkey > g > g g:hover {
+  opacity: 0.2;
+}
+#turkey-map[data-map='city'] .map-tooltip span {
+  display: none !important;
+}
+#turkey-map.zoomed #turkey > g > g path,
+#turkey-map.zoomed #turkey > g > g polygon,
+#turkey-map.zoomed #turkey > g > g g {
+  opacity: .4;
+}
+#turkey-map.zoomed #turkey > g.selected path,
+#turkey-map.zoomed #turkey > g.selected polygon,
+#turkey-map.zoomed #turkey > g.selected g {
+  opacity: 1;
+}
+#turkey-map.zoomed #turkey > g.selected path:hover,
+#turkey-map.zoomed #turkey > g.selected polygon:hover,
+#turkey-map.zoomed #turkey > g.selected g:hover {
+  opacity: .8 !important;
+}
+#turkey-map .map-container {
+  width: 1140px;
+  display: inline-block;
+}
+#turkey-map svg {
+  width: 1140px;
+  height: 500px;
+  margin: 50px 0;
+  transition: all .4s;
+}
+#turkey-map svg #turkey > g {
+  /* city */
+  transition: all .2s;
+}
+#turkey-map svg #turkey > g:hover > g path,
+#turkey-map svg #turkey > g:hover > g polygon,
+#turkey-map svg #turkey > g:hover > g g {
+  cursor: pointer;
+  opacity: 0.6;
+}
+#turkey-map svg #turkey > g > g {
+  /* districts */
+}
+#turkey-map svg #turkey > g > g path,
+#turkey-map svg #turkey > g > g polygon,
+#turkey-map svg #turkey > g > g g {
+  fill: #3EA1AA;
+  /* all districtss colors */
+  cursor: pointer;
+}
+#turkey-map svg #turkey > g text {
+  display: none;
+}
+#turkey-map .map-tooltip {
+  background-color: #fff;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  margin-top: -40px;
+  z-index: 999999;
+  font-size: 14px;
+  padding: 6px 10px;
+  border-radius: 4px;
+  color: #333;
+  opacity: 0;
+}
+#turkey-map .map-tooltip:before {
+  width: 0;
+  height: 0;
+  content: '';
+  border: 10px solid transparent;
+  border-top: 8px solid #fff;
+  border-bottom: 0;
+  position: absolute;
+  left: 50%;
+  bottom: -7px;
+  margin-left: -10px;
+}
+#turkey-map .map-tooltip.hovered {
+  opacity: 1;
+}
+#turkey-map .map-tooltip span {
+  background-color: #ddd;
+  border-radius: 2px;
+  padding: 3px 6px;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: -2px 5px 0 -5px;
+  font-size: 11px;
+}
+#turkey-map.zoomed .map-title {
+  opacity: 1;
+  transform: translateX(0);
+}
+#turkey-map.zoomed .map-title .map-close {
+  transform: rotate(0deg);
+}
+#turkey-map .map-title {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #333;
+  font-size: 36px;
+  letter-spacing: -1px;
+  border-radius: 10px;
+  opacity: 0;
+  transition: all .2s;
+  transform: translateX(-500px);
+}
+#turkey-map .map-title .map-close {
+  background: url('../img/back.png') 16px 20px no-repeat;
+  display: inline-block;
+  background-size: 24px 24px;
+  width: 55px;
+  cursor: pointer;
+  padding: 10px 20px;
+  height: 64px;
+  vertical-align: top;
+  transition: all .4s;
+  transform: rotate(720deg);
+}
+#turkey-map .map-title .map-close:hover {
+  transform: scale(1.2);
+}
+#turkey-map .map-title strong {
+  vertical-align: top;
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  display: inline-block;
+}
+/*# sourceMappingURL=style.css.map */

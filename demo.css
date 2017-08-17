@@ -1,0 +1,75 @@
+body {
+  background-color: #E6E7FA !important;
+  padding: 0;
+  margin: 0;
+  font: normal 16px 'Helvetica Neue', 'Arial';
+}
+.card {
+  padding: 30px;
+  border-radius: 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+  max-width: 600px;
+  margin: 40px auto;
+}
+.card h1 {
+  margin: 0 0 20px 0;
+}
+.card p {
+  font-size: 16px;
+  line-height: 24px;
+}
+.card .buttons {
+  margin: 30px 0 10px 0;
+  padding: 30px 0 0 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.btn.rounded {
+  border-radius: 5px;
+  background-color: transparent;
+  box-shadow: 0 0 0 1px #fff;
+  font-weight: bold;
+  color: #fff;
+  padding: 10px 20px;
+  transition: all .2s;
+}
+.btn.rounded:hover {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.container-fluid.dark {
+  background-color: #4758FF !important;
+}
+.container-fluid.support {
+  background-color: #47FFB9;
+}
+.container-fluid.demo {
+  background-color: #F5F0B1;
+}
+.container-fluid.demo p {
+  margin: 20px 0;
+  font-size: 18px;
+}
+.container-fluid .buttons {
+  padding: 30px 0;
+}
+.container-fluid .buttons.dark .btn {
+  color: rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.4);
+}
+.container-fluid .buttons .btn {
+  margin: 0 0 0 20px;
+}
+.container-fluid .buttons h3 {
+  margin: 8px 0;
+  color: rgba(0, 0, 0, 0.5);
+}
+.list {
+  width: 600px;
+  margin: 20px auto;
+}
+.list li {
+  margin: 20px 0 0 0;
+  padding: 0 0 20px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}

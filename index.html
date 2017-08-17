@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+
+
+  <link rel="stylesheet" href="demo.css">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  
+  <link rel="stylesheet" href="turkey-map/style/style.css">
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="turkey-map/js/main.js"></script>
+
+
+  <!-- EXAMPLE JAVASCRIPT -->
+  <script type="text/javascript">
+    $(function(){
+
+      $('#turkey-map').on('click', '#turkey #Ankara #Keçiören', function() {
+        alert('Clicked Keçiören');
+      });
+
+    });
+  </script>
+  <!-- EXAMPLE JAVASCRIPT #end -->
+
+
+  <!-- EXAMPLE STYLE -->
+  <style>
+    .color1 {
+      fill: #ed145a !important;
+    }
+
+    .color2 {
+      fill: #0ea31a !important;
+    }
+
+    .color3 {
+      fill: #a7e3da !important;
+    }
+  </style>
+  <!-- EXAMPLE STYLE #end -->
+
+
+</head>
+<body>
+  
+  <div id="turkey-map" data-map="districts" data-bg-color="#FFF5D0">
+  </div>
+
+  
+
+  <div class="container-fluid dark">
+    <div class="container">
+      <div class="row buttons">
+        <div class="col-sm-12 text-center">
+          <h3>Thank you for purchasing (:</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container text-center">
+    
+    <div class="card">
+      <h1>Turkey Districts Map <kbd>v1.0</kbd></h1>
+      <p>
+        This is districts svg map of Turkey. You can simply change the background color, map color or tooltip data. You can add different colors to each district or city. This map is created with Sketch app by me (<a href="http://twitter.com/bqra">Bora Dan</a>). Send a message to me for anything to learn about this map! I hope you enjoy.
+      </p>
+    </div>
+    <ul class="list text-left">
+      <li>Firstly; start with copy the <kbd>/turkey-map</kbd> folder to your project directory.</li>
+      <li>Add turkey-map css and javascript file paths in your <kbd>&lt;head&gt;</kbd> tag. <b>Example; </b><br><br>
+        <pre>&lt;link rel="stylesheet" href="turkey-map/style/style.css"&gt;
+&lt;script src="turkey-map/js/main.js"&gt;&lt;/script&gt;</pre>
+      </li>
+      <li>Now you are ready for show the map. Just add <kbd>&lt;div id="turkey-map"&gt;&lt;/div&gt;</kbd> in your html file that you want to show</li>
+      <li>Turkey Districts Map allows properties more than one. Simply you can add html5 data attribute for these. The list of properties; <br><br>
+        <kbd>data-map="districts"</kbd><br>
+        <samp>data-map attribute can get two values. 'districts' or 'city'. 'districts' shows districts name in tooltip. 'city' shows city name in tooltip.</samp><br><br>
+
+        <kbd>data-bg-color="#fff5d0"</kbd><br>
+        <samp>data-bg-color can change the background color for map background.</samp><br><br>
+
+        <kbd>data-map-color="#333333"</kbd><br>
+        <samp>data-map-color can change the map color.</samp>
+      </li>
+      <li>If you want to run your own javascript function when you clicked the city on the map you can add these jquery lines in your javascript file.<br><br>
+        <kbd>$('#turkey-map').on('click', '#turkey > g', function() {
+        <br> [your code] <br> 
+        });</kbd>
+        <br>or <br>
+        <kbd>$('#turkey-map').on('click', '#turkey #Ankara', function() {<br> [your code] <br>});</kbd>
+        <br>or <br>
+        <kbd>$('#turkey-map').on('click', '#turkey #Ankara #Keçiören', function() {<br> [your code] <br>});</kbd>
+      </li>
+      <li>
+        If you want add different colors on cities or districts, you must add that colors as <kbd>&lt;color&gt;</kbd> element in <kbd>&lt;div id="turkey-map"&gt;</kbd> div element. <b>Example;</b><br><br>
+        <pre>&lt;div id="turkey-map" data-map="districts" data-bg-color="#FFF5D0"&gt;
+  &lt;color id="Keçiören" data-color="color1"&gt;&lt;/color&gt;
+  &lt;color id="İstanbul" data-color="color2"&gt;&lt;/color&gt;
+  &lt;color id="İzmir" data-color="color3"&gt;&lt;/color&gt;
+&lt;/div&gt;</pre> <br>
+
+        Don't forget, before this, define your color classes in your .css file. <b>Example;</b><br><br>
+        <pre>.color1 { fill: #ed145a; }
+.color2 { fill: #d7a35a; }</pre>
+      </li>
+    </ul>
+    
+  </div>
+
+    <div class="container-fluid support">
+      <div class="container">
+        <div class="row buttons dark">
+          <div class="col-sm-6">
+            <h3>Free Lifetime Update & 6 Months Support</h3>
+          </div>
+          <div class="col-sm-6 text-right">
+            <a href="http://twitter.com/bqra" target="_blank" class="btn rounded">Ask Before Purchase via Twitter</a>
+            <a href="mailto:bora_dan@hotmail.com" class="btn rounded">Ask Before Purchase via Email</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  
+</body>
+</html>
